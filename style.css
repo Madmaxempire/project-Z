@@ -304,7 +304,7 @@ section.home {
 .contact-info .info-box img {
   height: 45px;
 }
-@media (max-width: 1068px) {
+@media (max-width: 915px) {
   .home-img {
     display: none;
   }
